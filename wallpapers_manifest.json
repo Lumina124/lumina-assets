@@ -1,15 +1,78 @@
 [
   {
-    "id": "online_cyberpunk_city_001",
-    "title": "Cyberpunk City",
+    "id": "cyberpunk_city",
+    "title": "Cyberpunk City Lights",
+    "category": "Cyberpunk",
+    "type": "video",
+    "resolution": "1920x1080",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/cyberpunk_city.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/videos/cyberpunk_city.mp4",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "neon",
+      "cyberpunk",
+      "city",
+      "animated"
+    ],
+    "fileSizeBytes": 15400000,
+    "duration": 10
+  },
+  {
+    "id": "nature_lake",
+    "title": "Tranquil Nature Lake",
+    "category": "Naturaleza",
+    "type": "image",
+    "resolution": "3840x2160",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/nature_lake.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/images/nature_lake.jpg",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "nature",
+      "lake",
+      "landscape",
+      "4k"
+    ],
+    "fileSizeBytes": 4200000,
+    "duration": null
+  },
+  {
+    "id": "anime_girl",
+    "title": "Anime Girl in Rain",
+    "category": "Anime",
+    "type": "video",
+    "resolution": "1920x1080",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/anime_girl.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/videos/anime_girl.mp4",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "anime",
+      "girl",
+      "rain",
+      "animated"
+    ],
+    "fileSizeBytes": 22300000,
+    "duration": 15
+  },
+  {
+    "id": "online_cyberpunk_city_test_001",
+    "title": "Cyberpunk City Test",
     "category": "Cyberpunk",
     "type": "image",
     "resolution": "3840x2160",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/cyberpunk_city.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/cyberpunk_city.jpg",
-    "source": "Lumina Online",
-    "license": "Free for personal use",
-    "tags": ["cyberpunk", "neon", "city", "4k"],
-    "fileSizeBytes": 0
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/cyberpunk_city_test.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/cyberpunk_city_test.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "cyberpunk",
+      "neon",
+      "city",
+      "4k"
+    ],
+    "fileSizeBytes": 378865,
+    "duration": null
   }
 ]
