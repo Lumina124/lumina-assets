@@ -74,5 +74,24 @@
     ],
     "fileSizeBytes": 378865,
     "duration": null
+  },
+  {
+    "id": "online_neon_city_auto_test_001",
+    "title": "Neon City Auto Test",
+    "category": "Cyberpunk",
+    "type": "image",
+    "resolution": "5860x3907",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/neon_city_auto_test.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/neon_city_auto_test.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "neon",
+      "city",
+      "cyberpunk",
+      "4k"
+    ],
+    "fileSizeBytes": 1000203,
+    "duration": null
   }
 ]
