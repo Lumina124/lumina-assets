@@ -111,5 +111,23 @@
     ],
     "fileSizeBytes": 2490895,
     "duration": null
+  },
+  {
+    "id": "online_anime_landscape_auto_test_002",
+    "title": "Anime Landscape Auto Test",
+    "category": "Anime",
+    "type": "image",
+    "resolution": "3253x5787",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/anime_landscape_auto_test_002.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/anime_landscape_auto_test_002.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "anime",
+      "landscape",
+      "4k"
+    ],
+    "fileSizeBytes": 2490895,
+    "duration": null
   }
 ]
