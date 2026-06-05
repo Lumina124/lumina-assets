@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cyberpunk_city",
+    "title": "Cyberpunk City Lights",
+    "category": "Cyberpunk",
+    "type": "video",
+    "resolution": "1920x1080",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/cyberpunk_city.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/videos/cyberpunk_city.mp4",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": ["neon", "cyberpunk", "city", "animated"],
+    "fileSizeBytes": 15400000,
+    "duration": 10.0
+  },
+  {
+    "id": "nature_lake",
+    "title": "Tranquil Nature Lake",
+    "category": "Naturaleza",
+    "type": "image",
+    "resolution": "3840x2160",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/nature_lake.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/images/nature_lake.jpg",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": ["nature", "lake", "landscape", "4k"],
+    "fileSizeBytes": 4200000
+  },
+  {
+    "id": "anime_girl",
+    "title": "Anime Girl in Rain",
+    "category": "Anime",
+    "type": "video",
+    "resolution": "1920x1080",
+    "thumbnailUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/thumbnails/anime_girl.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/nike-ai/lumina-assets/main/videos/anime_girl.mp4",
+    "source": "https://github.com/nike-ai/lumina-assets",
+    "license": "CC0",
+    "tags": ["anime", "girl", "rain", "animated"],
+    "fileSizeBytes": 22300000,
+    "duration": 15.0
+  }
+]
