@@ -227,5 +227,25 @@
     ],
     "fileSizeBytes": 6173616,
     "duration": null
+  },
+  {
+    "id": "online_mountain_lake_001",
+    "title": "Mountain Lake",
+    "category": "Naturaleza",
+    "type": "image",
+    "resolution": "2700x4800",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/mountain_lake.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/mountain_lake.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "nature",
+      "mountain",
+      "lake",
+      "landscape",
+      "4k"
+    ],
+    "fileSizeBytes": 1261658,
+    "duration": null
   }
 ]
