@@ -447,5 +447,26 @@
     ],
     "fileSizeBytes": 3232801,
     "duration": null
+  },
+  {
+    "id": "online_rainy_city_street_001",
+    "title": "Rainy City Street",
+    "category": "Ciudad",
+    "type": "image",
+    "resolution": "4096x2730",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/rainy_city_street.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/rainy_city_street.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "city",
+      "rain",
+      "street",
+      "night",
+      "urban",
+      "4k"
+    ],
+    "fileSizeBytes": 547215,
+    "duration": null
   }
 ]
