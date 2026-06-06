@@ -307,5 +307,25 @@
     ],
     "fileSizeBytes": 430285,
     "duration": null
+  },
+  {
+    "id": "online_neon_gaming_setup_001",
+    "title": "Neon Gaming Setup",
+    "category": "Gaming",
+    "type": "image",
+    "resolution": "4160x6240",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/neon_gaming_setup.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/neon_gaming_setup.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "gaming",
+      "setup",
+      "neon",
+      "pc",
+      "4k"
+    ],
+    "fileSizeBytes": 4413678,
+    "duration": null
   }
 ]
