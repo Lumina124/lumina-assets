@@ -168,5 +168,25 @@
     ],
     "fileSizeBytes": 378865,
     "duration": null
+  },
+  {
+    "id": "online_futuristic_night_city_001",
+    "title": "Futuristic Night City",
+    "category": "Cyberpunk",
+    "type": "image",
+    "resolution": "5727x3818",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/futuristic_night_city.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/futuristic_night_city.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "cyberpunk",
+      "futuristic",
+      "city",
+      "night",
+      "4k"
+    ],
+    "fileSizeBytes": 1305398,
+    "duration": null
   }
 ]
