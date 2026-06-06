@@ -367,5 +367,25 @@
     ],
     "fileSizeBytes": 1108553,
     "duration": null
+  },
+  {
+    "id": "online_planet_horizon_001",
+    "title": "Planet Horizon",
+    "category": "Espacio",
+    "type": "image",
+    "resolution": "2700x4800",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/planet_horizon.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/planet_horizon.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "space",
+      "planet",
+      "horizon",
+      "cosmos",
+      "4k"
+    ],
+    "fileSizeBytes": 124539,
+    "duration": null
   }
 ]
