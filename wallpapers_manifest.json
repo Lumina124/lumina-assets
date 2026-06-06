@@ -148,5 +148,25 @@
     ],
     "fileSizeBytes": 1848553,
     "duration": null
+  },
+  {
+    "id": "online_cyberpunk_neon_city_001",
+    "title": "Cyberpunk Neon City",
+    "category": "Cyberpunk",
+    "type": "image",
+    "resolution": "3840x2160",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/cyberpunk_neon_city.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/cyberpunk_neon_city.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "cyberpunk",
+      "neon",
+      "city",
+      "night",
+      "4k"
+    ],
+    "fileSizeBytes": 378865,
+    "duration": null
   }
 ]
