@@ -327,5 +327,25 @@
     ],
     "fileSizeBytes": 4413678,
     "duration": null
+  },
+  {
+    "id": "online_neon_arcade_001",
+    "title": "Neon Arcade",
+    "category": "Gaming",
+    "type": "image",
+    "resolution": "3814x5713",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/neon_arcade.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/neon_arcade.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "gaming",
+      "arcade",
+      "neon",
+      "retro",
+      "4k"
+    ],
+    "fileSizeBytes": 771143,
+    "duration": null
   }
 ]
