@@ -207,5 +207,25 @@
     ],
     "fileSizeBytes": 2490895,
     "duration": null
+  },
+  {
+    "id": "online_sakura_dream_001",
+    "title": "Sakura Dream",
+    "category": "Anime",
+    "type": "image",
+    "resolution": "7040x4688",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/sakura_dream.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/sakura_dream.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "anime",
+      "sakura",
+      "japan",
+      "landscape",
+      "4k"
+    ],
+    "fileSizeBytes": 6173616,
+    "duration": null
   }
 ]
