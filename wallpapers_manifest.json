@@ -347,5 +347,25 @@
     ],
     "fileSizeBytes": 771143,
     "duration": null
+  },
+  {
+    "id": "online_galaxy_space_001",
+    "title": "Galaxy Space",
+    "category": "Espacio",
+    "type": "image",
+    "resolution": "3152x4541",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/galaxy_space.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/galaxy_space.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "space",
+      "galaxy",
+      "stars",
+      "universe",
+      "4k"
+    ],
+    "fileSizeBytes": 1108553,
+    "duration": null
   }
 ]
