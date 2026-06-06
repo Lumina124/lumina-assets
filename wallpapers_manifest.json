@@ -267,5 +267,25 @@
     ],
     "fileSizeBytes": 2129367,
     "duration": null
+  },
+  {
+    "id": "online_abstract_neon_001",
+    "title": "Abstract Neon",
+    "category": "Abstracto",
+    "type": "image",
+    "resolution": "7680x4320",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/abstract_neon.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/abstract_neon.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "abstract",
+      "neon",
+      "colorful",
+      "background",
+      "4k"
+    ],
+    "fileSizeBytes": 265574,
+    "duration": null
   }
 ]
