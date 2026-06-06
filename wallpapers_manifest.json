@@ -387,5 +387,25 @@
     ],
     "fileSizeBytes": 124539,
     "duration": null
+  },
+  {
+    "id": "online_minimal_dark_001",
+    "title": "Minimal Dark",
+    "category": "Minimalista",
+    "type": "image",
+    "resolution": "5085x3390",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/minimal_dark.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/minimal_dark.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "minimal",
+      "dark",
+      "clean",
+      "modern",
+      "4k"
+    ],
+    "fileSizeBytes": 3286350,
+    "duration": null
   }
 ]
