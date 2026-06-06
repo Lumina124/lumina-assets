@@ -407,5 +407,25 @@
     ],
     "fileSizeBytes": 3286350,
     "duration": null
+  },
+  {
+    "id": "online_minimal_gradient_001",
+    "title": "Minimal Gradient",
+    "category": "Minimalista",
+    "type": "image",
+    "resolution": "6000x4000",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/thumbnails/minimal_gradient.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lumina124/lumina-assets/main/images/minimal_gradient.jpg",
+    "source": "https://github.com/Lumina124/lumina-assets",
+    "license": "CC0",
+    "tags": [
+      "minimal",
+      "gradient",
+      "simple",
+      "clean",
+      "4k"
+    ],
+    "fileSizeBytes": 186625,
+    "duration": null
   }
 ]
